@@ -1,0 +1,8 @@
+{
+    "name": "NonBeGone",
+    "creator": "FoxSylv",
+    "description": "Removes chat messages from low-level Hypixel Skyblock players",
+    "version": "1.1.0",
+    "entry": "index.js",
+    "requires": ["PogData"]
+}
